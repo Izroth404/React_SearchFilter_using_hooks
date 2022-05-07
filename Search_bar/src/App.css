@@ -1,0 +1,24 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  /* border-radius: 100px; */
+  /* border: 1px solid #ccc; */
+}
+
+.App input{
+  margin-top:20px;
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+  padding-left:10px;
+  border-radius: 100px;
+  border-color: cyan;
+}
+
+p{
+  margin: 10px;
+  font-size: 20px;
+}
