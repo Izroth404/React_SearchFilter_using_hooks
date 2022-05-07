@@ -1,5 +1,5 @@
 # React_SearchFilter_using_hooks
-Hooks Used : Usestate for searching in the mockdata
+Hooks Used : Usestate for searching in the mockdata </br>
 Data collected from : https://www.mockaroo.com/
 
 Output:
